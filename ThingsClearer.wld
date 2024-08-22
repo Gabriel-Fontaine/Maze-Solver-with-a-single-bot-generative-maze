@@ -1,0 +1,48 @@
+# City saved on 2005/7/1@11:33:30
+
+# Window title
+	Pick up a thing
+# first street, first avenue, num streets, num avenues
+	0 0 8 8
+# intersection size
+	55
+# things
+	becker.robots.Thing 5 2
+becker.robots.Thing 5 2
+becker.robots.Thing 7 2
+becker.robots.Thing 7 2
+becker.robots.Thing 7 2
+becker.robots.Thing 7 2
+becker.robots.Thing 15 2
+becker.robots.Thing 15 2
+becker.robots.Thing 15 2
+becker.robots.Thing 15 2
+becker.robots.Thing 15 2
+becker.robots.Thing 15 2
+becker.robots.Thing 15 2
+becker.robots.Thing 15 2
+becker.robots.Thing 21 2
+becker.robots.Thing 21 2
+becker.robots.Thing 21 2
+becker.robots.Thing 21 2
+becker.robots.Thing 31 2
+becker.robots.Thing 31 2
+becker.robots.Thing 41 2
+becker.robots.Thing 41 2
+becker.robots.Thing 41 2
+becker.robots.Thing 41 2
+becker.robots.Thing 51 2
+becker.robots.Thing 51 2
+becker.robots.Thing 61 2
+becker.robots.Thing 61 2
+becker.robots.Thing 61 2
+becker.robots.Thing 77 2
+becker.robots.Thing 77 2
+becker.robots.Thing 77 2
+becker.robots.Thing 77 2
+becker.robots.Thing 88 2
+becker.robots.Thing 88 2
+becker.robots.Thing 88 2
+becker.robots.Thing 99 2
+becker.robots.Thing 99 2
+becker.robots.Wall 99 2 South
